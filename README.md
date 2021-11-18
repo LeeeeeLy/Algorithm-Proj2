@@ -1,4 +1,4 @@
-# Project 1 - Xiaowen Li
+# Project 2 - Xiaowen Li
 
 
 ## Instruction
