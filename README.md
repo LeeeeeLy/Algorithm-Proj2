@@ -17,3 +17,9 @@ C:\Location>python Project2.py large.txt large-soln.txt
 C:\Location>python verifyGraph.py large.txt large-soln.txt
 Path is correct.
 ```
+##packages
+```python
+import sys
+import numpy 
+from collections import defaultdict
+```
